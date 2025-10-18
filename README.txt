@@ -1,0 +1,1 @@
+GAJ KESARI - Multi-page static site. Use any static host (GitHub Pages, Netlify, Vercel). Contact: saurabh2625@gmail.com, +91 99299 99427
